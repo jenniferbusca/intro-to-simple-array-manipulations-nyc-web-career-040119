@@ -38,5 +38,5 @@ def using_uniq(array)
 end
 
 def using_delete(arr, ele)
-  arr.insert(4, ele)
+  arr.delete(ele)
 end
