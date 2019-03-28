@@ -27,7 +27,7 @@ def using_insert(arr, ele)
 end
 
 def using_flatten(arr)
-  arr.shift(2)
+  arr.flatten
 end
 def pop_with_args(arr)
   arr.pop(2)
