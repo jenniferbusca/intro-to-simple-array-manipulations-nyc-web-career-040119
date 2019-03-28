@@ -37,6 +37,6 @@ def using_uniq(array)
   array.uniq
 end
 
-def using_insert(arr, ele)
+def using_delete(arr, ele)
   arr.insert(4, ele)
 end
