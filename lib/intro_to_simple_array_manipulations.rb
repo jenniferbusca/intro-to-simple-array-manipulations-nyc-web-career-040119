@@ -26,6 +26,9 @@ def using_insert(arr, ele)
   arr.insert(4, ele)
 end
 
+def using_flatten(arr)
+  arr.shift(2)
+end
 def pop_with_args(arr)
   arr.pop(2)
 end
