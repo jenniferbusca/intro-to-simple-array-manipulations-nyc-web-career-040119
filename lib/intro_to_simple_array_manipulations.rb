@@ -3,7 +3,7 @@ def using_push(arr, str)
 end
 
 def using_push(arr, str)
-  arr.push(str)
+  arr.unshift(str)
 end
 
 def using_uniq(array)
