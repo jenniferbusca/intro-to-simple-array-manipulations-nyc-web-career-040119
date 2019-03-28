@@ -23,7 +23,7 @@ def using_concat(arr1, arr2)
 end
 
 def using_insert(arr, ele)
-  arr.insert(ele, 3)
+  arr.insert(ele, 4)
 end
 
 def pop_with_args(arr)
